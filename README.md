@@ -4,7 +4,7 @@
 ### Unreal Engine ver.5.6.1
 
 ### Develop Branch
-- Main Branch
+- Master Branch
   - 배포 가능한 상태의 코드를 유지합니다.
   - 모든 배포는 이 브랜치에서 이루어집니다.
 - Develop Branch
