@@ -12,3 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content\Characters\Mannequins\Anims\Pistol
+Content\Characters\Mannequins\Anims\Death
+Content\Characters\Mannequins\Materials
+Content\Characters\Mannequins\Textures
