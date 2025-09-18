@@ -13,4 +13,4 @@
   - 팀원 각자의 개발 브랜치입니다.
   - 모든 기능 개발은 이 브랜치에서 이루어집니다.
   - 이 브랜치는 Develop Branch를 베이스로 합니다.
-  - ex) branch_KY
+  - ex) branch_KKY
